@@ -1,0 +1,27 @@
+.text-center {
+    text-align: center;
+}
+
+.bg-color {
+    background-color: black;
+}
+
+.text-color {
+    color: white;
+}
+
+.column {
+    float: left;
+}
+
+.colLeft {
+    width: 25%;
+}
+
+.colMid {
+    width: 40%;
+}
+
+.colRight {
+    width: 35%;
+}
